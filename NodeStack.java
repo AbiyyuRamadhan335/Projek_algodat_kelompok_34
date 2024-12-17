@@ -1,5 +1,5 @@
 public class NodeStack {
-    String action; // Aksi yang dilakukan (misal: tambah, hapus, ubah)
+    String action; 
     String nama_pegawai;
     String posisi;
     NodeStack next;
